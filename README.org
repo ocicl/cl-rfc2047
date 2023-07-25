@@ -1,0 +1,10 @@
+* cl-rfc2047
+
+Implementation of RFC 2047.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eugeneia/cl-rfc2047.git   |
+| commit  | ae84a9d  |
+| systems | cl-rfc2047 |
+|---------+-------------------------------------------|
+
